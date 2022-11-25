@@ -1,4 +1,4 @@
-<h1>张森森的技术博客</h1>
+<h1>张森森blog</h1>
 
 <font color=red size=4> 重要：</font>
 

@@ -1,7 +1,7 @@
 * **前端**
     * [HTML5](HTML/readme)
     * [CSS5](CSS/readme)
-    * [移动端web](MobileWebDev/readme)
+    * [移动端布局](MobileWebDev/readme)
     * [ECMAScript基础](JavaScript/readme)
     * [ECMAScript高级](JS-Advance/readme)
     * [ECMAScript6/6+](ECMAScript6+/readme)
@@ -13,6 +13,7 @@
     * [HTTP 协议原理与应用](HTTP/readme)
     * [Vue 全家桶](vue&vue-router&vuex/readme)
 
-* **计算机基础**
+* **后端基础**
     * [**MySQL**](MySQL/readme)
     * [计算机网络](C-Network/readme)
+    * [Python](Python/README.md)
