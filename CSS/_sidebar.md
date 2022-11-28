@@ -5,4 +5,4 @@
     * [ch04. 浮动](CSS/ch04)
     * [ch05. 定位](CSS/ch05)
     * [ch06. CSS 高级](CSS/ch06)
-    * [ch07. HTML5与CSS3新增](CSS/ch07)
+    * [ch07. HTML5与CSS3](CSS/ch07)
