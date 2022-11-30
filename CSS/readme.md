@@ -1,6 +1,6 @@
 
 > [!NOTE]
-> 本章CSS3/HTML5笔记根据 [B站pink老师前端教学视频](https://www.bilibili.com/video/BV14J4114768?from=search&seid=9517467869144033174) 记录。
+> 
 
 - [ch01. 简介与基础选择器](CSS/ch01)
 - [ch02. 复合选择器与特性](CSS/ch02)
