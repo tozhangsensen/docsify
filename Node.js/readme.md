@@ -5,3 +5,4 @@ Node.js 学习笔记。
 - [ch03. Buffer 缓冲器](Node.js/ch03)
 - [ch04. fs 文件系统](Node.js/ch04)
 - [ch05. MongoDB 非关系型数据库](Node.js/ch05)
+黑马 nodejs https://brucecai55520.gitee.io/bruceblog/notes/nodejs/node.html#初识-nodejs
