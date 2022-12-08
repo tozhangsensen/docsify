@@ -1,9 +1,12 @@
 * **Node.js**
-    * [ch01. Node.js 初识](Node.js/ch01)
-    * [ch02. 包与 npm 包管理器](Node.js/ch02)
+
+    * [ch01. npm](Node.js/ch02)
+    * [ch02. fs 文件读写](Node.js/ch04)
     * [ch03. Buffer 缓冲器](Node.js/ch03)
-    * [ch04. fs 文件系统](Node.js/ch04)
-    * [ch05. MongoDB 非关系型数据库](Node.js/ch05)
+    * [ch02. 模块化](https://brucecai55520.gitee.io/bruceblog/notes/nodejs/node.html#模块化)
+    * [ch03. path模块和http模块](https://brucecai55520.gitee.io/bruceblog/notes/nodejs/node.html#path-路径模块)
+
+  
     
    
     
