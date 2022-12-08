@@ -9,4 +9,4 @@
 [Vuex3](https://v3.vuex.vuejs.org/zh/)
 
 
-[Vue js笔记](http://doc.cms.liulongbin.top/#/)  
+[刘龙宾vue2](http://doc.cms.liulongbin.top/#/)  
