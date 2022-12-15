@@ -13,9 +13,9 @@
 
 >[!TIP]指路：本站主要是前端&终端开发方向       
 
-测试笔记：暂时移步语雀 https://www.yuque.com/zhouchuanmingri/vf4r6f    
+测试笔记：移步语雀 https://www.yuque.com/zhouchuanmingri/vf4r6f    
 
-其他笔记：迁移上传中～
+更多源码笔记见github：zhangsensen7
 
 
 
