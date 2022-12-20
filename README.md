@@ -15,19 +15,19 @@
 
 测试笔记：移步语雀 https://www.yuque.com/zhouchuanmingri/vf4r6f    
 
-更多源码笔记见github：zhangsensen7
+更多源码笔记搜索github：zhangsensen7
 
 
 
 使用方法：
-1. 离线笔记：git@github.com:zhangsensen7/learning.git，这里面每个文件夹中的文件都是 `.md` 后缀的文件，这是一种 `markdown` 语法，可以使用 `typora` 文本编辑器打开，typora 下载地址：https://typoraio.cn
+1. 离线笔记：git@github.com:zhangsensen7/docsify_demo.git，这里面每个文件夹中的文件都是 `.md` 后缀的文件，这是一种 `markdown` 语法，可以使用 `typora` 文本编辑器打开，typora 下载地址：https://typoraio.cn
 gitub地址，
 
 2. 如果你要本地运行此项目：
 ```bash
 npm i docsify-cli -g 
-git clone git@github.com:zhangsensen7/learning.git
-cd learning
+git clone git@github.com:zhangsensen7/docsify_demo.git
+cd docsify_demo
 docsify serve
 ```
 
