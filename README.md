@@ -14,7 +14,7 @@
 
 >[!TIP]web前端方向       
 
-测试blog移步语雀 https://www.yuque.com/zhouchuanmingri/vf4r6f    
+测试blog移步语雀 https://www.yuque.com/g/zhouchuanmingri/vf4r6f/collaborator/join?token=9TdO6RrQeCCvW1up# 《测试学习》    
 
 更多源码github：zhangsensen7
 
