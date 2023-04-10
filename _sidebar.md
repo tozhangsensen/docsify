@@ -12,6 +12,8 @@
     * [Ajax](Ajax/readme)  
     * [Webpack](webpack/readme)
     * [Vue 全家桶](vue&vue-router&vuex/readme)
+    * [部署](shangxian/18_%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E5%92%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2.md)
+
 * **基础**
     * [HTTP 协议原理与应用](HTTP/readme)
     * [计算机网络](C-Network/readme)
