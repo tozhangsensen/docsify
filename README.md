@@ -6,7 +6,7 @@
 
 ---
 关于我：
-非科班自学转行入it，前星网锐捷员工
+非科班自学入it，前星网锐捷正式pd，软件测试，测试开发，前端开发...
 
 对前沿编程知识保持充分好奇，blog记录下自己的成长👮🏻‍♂️
 
@@ -14,7 +14,7 @@
 
 >[!TIP]web前端方向       
 
-测试blog移步语雀 https://www.yuque.com/g/zhouchuanmingri/vf4r6f/collaborator/join?token=9TdO6RrQeCCvW1up# 《测试学习》    
+软件测试blog：移步语雀 https://www.yuque.com/g/zhouchuanmingri/vf4r6f/collaborator/join?token=9TdO6RrQeCCvW1up# 《测试学习》    
 
 更多源码github：zhangsensen7
 
