@@ -22,7 +22,7 @@ vue2/vue3 企业管理后台演示：技术栈：vue3+pinia+vue_router+elementui
 
 移动端汉堡外卖项目演示：技术栈：vue3+pinia+vue_router+axios 等
 
-优选购物商场 小程序/app 项目演示 技术栈：uniapp
+优选购物商场 小程序/app 项目演示 技术栈：vue+uniapp
 
 仿 qq 音乐，网易云小程序 项目演示 技术栈：原生小程序
 
