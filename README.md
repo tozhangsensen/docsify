@@ -16,27 +16,47 @@
 
 公众号+哔哩哔哩+喜马拉雅 全网累计粉丝 3.3 万
 
-企业民宿项目移动端演示地址： 技术栈：使用 vue3 最新语法糖+pinia+vue_router+vant +axios 等。
+1、掌握 HTML5，CSS3，ES6快速搭建前端界面，并对浏览器渲染，性能优化有一定了解
+
+2、熟悉 Vue 技术栈(vue2-3,router，vuex，pinia，axios ）
+
+3、熟悉 React 技术栈（react-router，react-redux，rtk）
+
+4、熟悉 Node.js,express/koa框架进行接口开发,Webpack 前端工程化
+
+5、了解 Git 协作开发版本管理，对前端代码规范有一定的了解
+
+6、熟悉使用前端调试工具，快速定位前端问题
+
+7、熟悉使用python爬虫，接口测试自动化开发等
+
+8、善于外网翻墙查阅资料，基本英文文档阅读能力，能主动去学习新知，解决问题
+
+企业民宿项目移动端：使用 vue3 最新语法糖+pinia+vue_router+vant +axios 等。
 
 vue2/vue3 企业管理后台演示：技术栈：vue3+pinia+vue_router+elementui +axios 等。
 
-移动端汉堡外卖项目演示：技术栈：vue3+pinia+vue_router+axios 等
+react管理后台： 技术栈：react17+AntDesign+redux+reactrouter等
 
-优选购物商场 小程序/app 项目演示 技术栈：vue+uniapp
+爱彼迎：基于 react18 + material-UI+axios+react-router等
 
-仿 qq 音乐，网易云小程序 项目演示 技术栈：原生小程序
+h5汉堡外卖项目演示：vue3+pinia+vue_router+axios 等
+
+优选购物商场:小程序/app  技术栈：vue+uniapp等
+
+音乐小程序:技术栈：原生小程序
 
 Python 爬虫/自动化策略+项目处理方案 项目演示 技术栈：python 爬虫
 
 职业经历：
 
-前端开发工程师，前星网锐捷中级测试开发工程师，前博思软件P2测试开发工程师，:主前端开发，python 测试开发/爬虫...
+前端开发工程师，前星网锐捷中级测试开发工程师，前博思软件P2测试开发工程师
 
-商务加 Q：1477916977(web 前端/app/小程序开发、前端or测试开发问题解决，爬虫，中大厂自动化框架从0到1落地...)
+商务加 q：1477916977(web 前端/app/小程序开发、前端or测试开发问题解决，爬虫，中大厂自动化框架落地...)
 
 前后端、运维、大数据、产品教程资源+源码
 
-Ps，Pr，Ae 教程+模版作品（有偿）
+Ps，Pr，Ae 设计类教程+模版作品（有偿）
 
 ChatGPT注册，海外接码平台，🪜（有偿）
 
