@@ -32,6 +32,8 @@
 
 8、善于外网翻墙查阅资料，基本英文文档阅读能力，能主动去学习新知，解决问题
 
+项目：
+
 企业民宿项目移动端：使用 vue3 最新语法糖+pinia+vue_router+vant +axios 等。
 
 vue2/vue3 企业管理后台演示：技术栈：vue3+pinia+vue_router+elementui +axios 等。
