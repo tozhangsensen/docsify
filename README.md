@@ -60,7 +60,7 @@ Ps，Pr，Ae 设计类教程+模版作品（有偿）
 
 ChatGPT注册，海外接码平台，🪜（有偿）
 
-> [!TIP]web 前端方向
+> [!TIP] 其他进度：react nodejs进阶（express/koa） typescript陆续整理上传ing
 
 使用方法：
 
@@ -76,7 +76,7 @@ cd docsify_demo
 docsify serve
 ```
 
-> [!TIP]其他进度：react nodejs进阶（express/koa） typescript笔记陆续整理上传中
+> [!TIP]
 
 
 
