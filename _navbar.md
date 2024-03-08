@@ -1,5 +1,6 @@
 * [首页](/)
-* [技术栈](https://objtube.github.io/front-end-roadmap/#/) 
-* [登峰造极Js文档](https://zh.javascript.info/) 
+* [路线图](https://objtube.github.io/front-end-roadmap/#/) 
+* [现代JavaScript文档](https://zh.javascript.info/)
+* [React中文文档](https://react.docschina.org/)
 
 
